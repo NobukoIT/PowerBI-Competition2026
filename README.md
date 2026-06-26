@@ -23,3 +23,7 @@ This report features:
 
 <img width="1000" height="516" alt="BCN 26 - Round 1-20260623-image" src="https://raw.githubusercontent.com/NobukoIT/image/refs/heads/main/BCN%2026%20-%20Round%201-%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89-image0626.png" />
 
+## Community Contest
+
+- 📅 Microsoft Fabric Community Contests:
+  https://github.com/shannonlindsay/FabricCommunityContests
