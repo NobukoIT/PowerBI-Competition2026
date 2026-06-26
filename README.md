@@ -1,21 +1,18 @@
 # PowerBI-Competition2026
 
-# Power BI Dashboard
+## 🏆 Power BI Competition Entry
 
-## 概要
-Adventure Works のデータを使用し、売上や利益、ブランド別・カテゴリ別の分析ができるダッシュボードを作成しました。
+**World Champs BCN – PitchSide Pro Sales Performance**
 
-## 使用技術
-* Power BI
-* Power Query
-* DAX
+- 📄 Competition Entry
+  https://community.fabric.microsoft.com/t5/Contests-Gallery/World-Champs-BCN-PitchSide-Pro-Sales-Performance/td-p/5229103
 
-## 主な機能
-* 売上・利益のKPI表示
-* ブランド別売上分析
-* カテゴリ別売上分析
-* フィルターによるデータの絞り込み
-* モバイル表示対応
+This report features:
+- Executive KPI dashboard
+- Product comparison
+- Regional analysis
+- Mobile-optimized layout
+- Interactive filtering
 
 ## 工夫した点
 * 重要なKPIを画面上部に配置し、一目で状況を把握できるようにしました。
